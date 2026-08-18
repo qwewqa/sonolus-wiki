@@ -1,9 +1,9 @@
 {
     "title": "Sonolus.py Guide",
-    "description": "Build a complete rhythm game engine with Sonolus.py",
+    "description": "Guide to engine development using Sonolus.py",
     "sonolusPyGuide": "Sonolus.py Guide",
-    "play": "Play Mode",
-    "watch": "Watch Mode",
-    "preview": "Preview Mode",
-    "tutorial": "Tutorial Mode"
+    "play": "Play",
+    "watch": "Watch",
+    "preview": "Preview",
+    "tutorial": "Tutorial"
 }
